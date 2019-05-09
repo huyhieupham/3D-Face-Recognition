@@ -1,6 +1,6 @@
 # 3D Face Datasets
 
-This repository contains a list of 3D face datasets. Each has a short description, year published and download url. Note that, the first 10 datasets (e.g. ) are most often used as training set for deep learning-based 3D face recognition approaches. To the best of my knowledge, the LS3DFace (https://arxiv.org/pdf/1711.05942.pdf) is the largest 3D face dataset to date, which contains 1,853 identities with 31,860 scans. This is in fact a merged dataset from the most challenging public datasets (FRGCv2, BU3DFE, Bosphorus, GavabDB, Texes FRD, BU4DFE, CASIA, UMB DB, 3D-TEC, and ND-2006). 
+This repository contains a list of 3D face datasets. Each has a short description, year published and download url. Note that, the first 10 datasets (e.g. ) are most often used as training set for deep learning-based 3D face recognition approaches. To the best of my knowledge, the LS3DFace (https://arxiv.org/pdf/1711.05942.pdf) is the largest 3D face dataset to date, which contains 1,853 identities with 31,860 scans. This is in fact a merged dataset from the most challenging public datasets (FRGCv2, BU3-DFE, Bosphorus, Texes FRD, BU4DFE, CASIA, UMB DB, 3D-TEC, and ND-2006). 
 
 ## FRGC v2 Dataset
 
@@ -11,6 +11,36 @@ This repository contains a list of 3D face datasets. Each has a short descriptio
 **Year of release**: 2005
 
 **Download URL:** https://cvrl.nd.edu/media/django-summernote/2018-09-19/c7654649-5277-4d8c-b069-483d8ffa3039.pdf
+
+## BU-3DFE Database (Binghamton University 3D Facial Expression)
+
+**Original paper**: L. Yin, X. Wei, Y. Sun, J. Wang, and M. J. Rosato. "A 3D facial expression database for facial behavior research" - In 7th International Conference on Automatic Face and Gesture Recognition (FGR06), pages 211–216. IEEE, 2006. 
+
+**Description**: This dataset includes 100 subjects (56% female, 44% male), ranging age from 18 years to 70 years old, with a variety of ethnic/racial ancestries, including White, Black, East-Asian, Middle-east Asian, Indian, and Hispanic Latino for 2500 facial expression models.  Each subject made 6 expressions (e.g. happiness, disgust, fear and so on) with four levels of intensity from low to high and a neutral expression. 
+
+**Year of release**: 2006
+
+**Download URL:** http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html
+
+## Bosphorus 
+
+**Original paper**: A. Savran, N. Alyuz, H. Dibeklio ¨ glu, O. C¸ eliktutan, ˘ B. Gokberk, B. Sankur, and L. Akarun. "Bosphorus database for 3D face analysis" - In European Workshop on Biometrics and Identity Management, pages 47–56. Springer, 2008.
+
+**Description**: The Bosphorus database contains 4,666 3D facial scans over 105 subjects with rich expression variations, poses, occlusions. The 2,902 scans contain expression variations from 105 subjects. In the experiment, 105 first neutral scans from each identity are used as a gallery set and 2797 non-neutral scans are used as a probe set.
+
+**Year of release**: 2008
+
+**Download URL:** http://bosphorus.ee.boun.edu.tr/default.aspx
+
+##  Texas 3D Face Recognition Database (Texas 3DFRD) 
+
+**Original paper**: S. Gupta, M. K. Markey, A. C. Bovik, "Anthropometric 3D Face Recognition", International Journal of Computer Vision, 2010, Volume 90, 3:331-349. 
+
+**Description**: The Texas 3D Face Recognition database (Texas 3DFRD) is a collection of 1149 pairs of facial color and range images of 105 adult human subjects. These images were acquired using a stereo imaging system manufactured by 3Q Technologies (Atlanta, GA) at a very high spatial resolution of 0.32 mm along the x, y, and z dimensions. During each acquisition, the color and range images were captured simultaneously and thus the two are perfectly registered to each other.
+
+**Year of release**: 2010
+
+**Download URL:** http://live.ece.utexas.edu/research/texas3dfr/
 
 
 ## CASIA 3D Face Database
@@ -33,27 +63,6 @@ This repository contains a list of 3D face datasets. Each has a short descriptio
 **Year of release**: 2011
 
 **Download URL:** https://cvrl.nd.edu/projects/data/
-
-
-## Bosphorus 
-
-**Original paper**: A. Savran, N. Alyuz, H. Dibeklio ¨ glu, O. C¸ eliktutan, ˘ B. Gokberk, B. Sankur, and L. Akarun. "Bosphorus database for 3D face analysis" - In European Workshop on Biometrics and Identity Management, pages 47–56. Springer, 2008.
-
-**Description**: The Bosphorus database contains 4,666 3D facial scans over 105 subjects with rich expression variations, poses, occlusions. The 2,902 scans contain expression variations from 105 subjects. In the experiment, 105 first neutral scans from each identity are used as a gallery set and 2797 non-neutral scans are used as a probe set.
-
-**Year of release**: 2008
-
-**Download URL:** http://bosphorus.ee.boun.edu.tr/default.aspx
-
-## BU-3DFE Database (Binghamton University 3D Facial Expression)
-
-**Original paper**: L. Yin, X. Wei, Y. Sun, J. Wang, and M. J. Rosato. "A 3D facial expression database for facial behavior research" - In 7th International Conference on Automatic Face and Gesture Recognition (FGR06), pages 211–216. IEEE, 2006. 
-
-**Description**: This dataset includes 100 subjects (56% female, 44% male), ranging age from 18 years to 70 years old, with a variety of ethnic/racial ancestries, including White, Black, East-Asian, Middle-east Asian, Indian, and Hispanic Latino for 2500 facial expression models.  Each subject made 6 expressions (e.g. happiness, disgust, fear and so on) with four levels of intensity from low to high and a neutral expression. 
-
-**Year of release**: 2006
-
-**Download URL:** http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html
 
 
 ## ND-2006 
@@ -89,16 +98,6 @@ on, pages 1–6. IEEE, 2007.
 
 **Download URL:** http://biometrics.dmcs.pl/en/databases/compact
 
-
-##  Texas 3D Face Recognition Database (Texas 3DFRD) 
-
-**Original paper**: S. Gupta, M. K. Markey, A. C. Bovik, "Anthropometric 3D Face Recognition", International Journal of Computer Vision, 2010, Volume 90, 3:331-349. 
-
-**Description**: The Texas 3D Face Recognition database (Texas 3DFRD) is a collection of 1149 pairs of facial color and range images of 105 adult human subjects. These images were acquired using a stereo imaging system manufactured by 3Q Technologies (Atlanta, GA) at a very high spatial resolution of 0.32 mm along the x, y, and z dimensions. During each acquisition, the color and range images were captured simultaneously and thus the two are perfectly registered to each other.
-
-**Year of release**: 2010
-
-**Download URL:** http://live.ece.utexas.edu/research/texas3dfr/
 
 ## The University of Milano Bicocca 3D face database  (UMB-DB database)
 
