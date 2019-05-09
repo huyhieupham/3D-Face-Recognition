@@ -100,7 +100,7 @@ on, pages 1–6. IEEE, 2007.
 
 **Download URL:** http://live.ece.utexas.edu/research/texas3dfr/
 
-## The University of Milano Bicocca 3D face database 
+## The University of Milano Bicocca 3D face database  (UMB-DB database)
 
 **Original paper**:  A. Colombo, C. Cusano, and R. Schettini, “B-DB: A Database of Partially Occluded 3D Faces,” in in Proc. ICCV 2011 Workshops, pp. 2113-2119, 2011.
 
@@ -157,9 +157,9 @@ on, pages 1–6. IEEE, 2007.
 
 **Original paper**: G. Fanelli, T. Weise, J. Gall, L. Van Gool, "Real Time Head Pose Estimation from Consumer Depth Cameras", 33rd Annual Symposium of the German Association for Pattern Recognition (DAGM'11).
 
-**Description**: 
+**Description**: This dataset comprises a total of 1109 sentences uttered by 14 native English speakers (6 males and 8 females). A real time 3D scanner and a professional microphone were used to capture the facial movements and the speech of the speakers. The dense dynamic face scans were acquired at 25 frames per second and the RMS error in the 3D reconstruction is about 0.5 mm. Each sentence was recorded twice: First, the speaker read the sentence from text, with a neutral expression. Then, the speaker watched a clip extracted from a feature film where the sentence is acted by professional actors and the context is highly emotional. After rating the emotions induced by the video, the speaker repeated the sentence.
 
-**Year of release**:
+**Year of release**: 2010
 
 **Download URL:** http://www.vision.ee.ethz.ch/datasets/b3dac2.en.html
 
@@ -197,7 +197,7 @@ Over 15K images of 20 people recorded with a Kinect while turning their heads ar
 
 **Download URL:** http://grail.cs.washington.edu/projects/stfaces/
 
-## Human face [21]
+## Human face
 
 **Original paper**: A. M. Bronstein, M. M. Bronstein, R. Kimmel, "Calculus of non-rigid surfaces for geometry and texture manipulation", IEEE Trans. Visualization and Computer Graphics, Vol 13/5, pp. 902-913, September-October 2007.
 
@@ -206,17 +206,6 @@ Over 15K images of 20 people recorded with a Kinect while turning their heads ar
 **Year of release**: 2007
 
 **Download URL:** http://tosca.cs.technion.ac.il/book/resources_data.html (Please scroll to bottom of page)
-
-
-## UMB-DB [22]
-
-**Original paper**: 
-
-**Description**: The UMB-DB database is a collection of multimodal (3D + 2D colour images) facial acquisitions. The UMB-DB has been acquired with a particular focus on facial occlusions, i.e. scarves, hats, hands, eyeglasses and other types of occlusion wich can occur in real-world scenarios. Database contents 143 subjects, (98 male, 45 female; a pair of male twins and a baby included); 1473 total acquisitions (3D + colour 2D);
-
-**Year of release**:
-
-**Download URL:** http://www.ivl.disco.unimib.it/minisites/umbdb/description.html
 
 
 ## LS3D-W 
