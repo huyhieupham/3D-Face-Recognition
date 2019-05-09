@@ -12,18 +12,16 @@ This repository contains a list of 3D face datasets. Each has a short descriptio
 
 **Download URL:** https://cvrl.nd.edu/media/django-summernote/2018-09-19/c7654649-5277-4d8c-b069-483d8ffa3039.pdf
 
-4,950 3D facial scans of 577 subjects
 
-CASIA 3D [2] consisting of 4624 scans of 123 persons using the non-contact 3D digitizer, Minolta Vivid 910,
+## CASIA 3D 
 
-**Original paper**: 
+**Original paper**: “CASIA-3D FaceV1, http://biometrics.idealtest.org/”
 
-**Description**:  
+**Description**:  The CASIA 3D consisting of 4624 scans of 123 persons using the non-contact 3D digitizer, Minolta Vivid 910,
 
 **Year of release**: 2015
 
-
-http://www.cbsr.ia.ac.cn/english/3DFace%20Databases.asp
+**Download URL:** http://www.cbsr.ia.ac.cn/english/3DFace%20Databases.asp
 
 3D-TEC [3]  
 
@@ -313,7 +311,7 @@ https://www.adrianbulat.com/face-alignment
 [1] P. J. Phillips, P. J. Flynn, T. Scruggs, K. W. Bowyer, J. Chang, K. Hoffman, J. Marques, J. Min, and W. Worek. Overview
 of the face recognition grand challenge. In 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR’05), volume 1, pages 947–954, 2005.
 
- [2] “CASIA-3D FaceV1, http://biometrics.idealtest.org/”
+ 
  
  [3] V. Vijayan, K. W. Bowyer, P. J. Flynn, D. Huang, L. Chen, M. Hansen, O. Ocegueda, S. K. Shah, and I. A. Kakadiaris.
 Twins 3d face recognition challenge. In Biometrics (IJCB), 2011 International Joint Conference on, pages 1–7. IEEE, 2011.
