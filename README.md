@@ -1,7 +1,6 @@
 # 3D Face Datasets
 
-This repository contains a list of 3D face datasets. Each has a short description, year published and download url. Note that, the first 10 datasets (e.g. ) are most often used as training set for deep learning-based 3D face recognition approaches. To the best of my knowledge, the LS3DFace (https://arxiv.org/pdf/1711.05942.pdf) is the largest 3D face dataset to date, which contains 1,853 identities with 31,860 scans. This is in fact a merged dataset from the most challenging public datasets (FRGCv2, BU3-DFE, Bosphorus, Texes FRD, BU4DFE, CASIA, UMB DB, 3D-TEC, and ND-2006). 
-
+This repository contains a list of 3D face datasets. Each has a short description, year published and download url. Note that, the first 10 datasets (e.g. ) are most often used as training and validation data for deep learning-based 3D face recognition approaches. To the best of my knowledge, the LS3DFace (https://arxiv.org/pdf/1711.05942.pdf) is the largest 3D face dataset to date, which contains 1,853 identities with 31,860 scans. This is in fact a merged dataset from the most challenging public datasets (FRGCv2, BU3-DFE, Bosphorus, Texes FRD, BU4DFE, CASIA, UMB DB, 3D-TEC, and ND-2006). 
 
 <p align="center"> 
 <img src="https://github.com/huyhieupham/3D-Face-Recognition/blob/master/figures/3d_face_data.png" width="550" height="300">
@@ -12,7 +11,7 @@ This repository contains a list of 3D face datasets. Each has a short descriptio
    Figure 1: Details of some important datasets for 3D facial analysis tasks.
   </p>
 
-## FRGC v2 Dataset
+## 1. FRGC v2 Dataset
 
 **Original paper**: P. Phillips, P. Flynn, T. Scruggs, K. Bowyer, et al. "Overview of the face recognition grand challenge". In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2005.
 
@@ -22,7 +21,7 @@ This repository contains a list of 3D face datasets. Each has a short descriptio
 
 **Download URL:** https://cvrl.nd.edu/media/django-summernote/2018-09-19/c7654649-5277-4d8c-b069-483d8ffa3039.pdf
 
-## BU-3DFE Database (Binghamton University 3D Facial Expression)
+## 2. BU-3DFE Database (Binghamton University 3D Facial Expression)
 
 **Original paper**: L. Yin, X. Wei, Y. Sun, J. Wang, and M. J. Rosato. "A 3D facial expression database for facial behavior research" - In 7th International Conference on Automatic Face and Gesture Recognition (FGR06), pages 211–216. IEEE, 2006. 
 
@@ -32,7 +31,7 @@ This repository contains a list of 3D face datasets. Each has a short descriptio
 
 **Download URL:** http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html
 
-## Bosphorus 
+## 3. Bosphorus 
 
 **Original paper**: A. Savran, N. Alyuz, H. Dibeklio ¨ glu, O. C¸ eliktutan, ˘ B. Gokberk, B. Sankur, and L. Akarun. "Bosphorus database for 3D face analysis" - In European Workshop on Biometrics and Identity Management, pages 47–56. Springer, 2008.
 
@@ -42,7 +41,7 @@ This repository contains a list of 3D face datasets. Each has a short descriptio
 
 **Download URL:** http://bosphorus.ee.boun.edu.tr/default.aspx
 
-##  Texas 3D Face Recognition Database (Texas 3DFRD) 
+## 4. Texas 3D Face Recognition Database (Texas 3DFRD) 
 
 **Original paper**: S. Gupta, M. K. Markey, A. C. Bovik, "Anthropometric 3D Face Recognition", International Journal of Computer Vision, 2010, Volume 90, 3:331-349. 
 
@@ -53,7 +52,7 @@ This repository contains a list of 3D face datasets. Each has a short descriptio
 **Download URL:** http://live.ece.utexas.edu/research/texas3dfr/
 
 
-## CASIA 3D Face Database
+## 5. CASIA 3D Face Database
 
 **Reference**: "CASIA-3D FaceV1, http://biometrics.idealtest.org/"
 
@@ -63,7 +62,7 @@ This repository contains a list of 3D face datasets. Each has a short descriptio
 
 **Download URL:** http://biometrics.idealtest.org/dbDetailForUser.do?id=8
 
-## 3D-TEC 
+## 6. 3D-TEC 
 
 **Original paper**: V. Vijayan, K. W. Bowyer, P. J. Flynn, D. Huang, L. Chen, M. Hansen, O. Ocegueda, S. K. Shah, and I. A. Kakadiaris.
 "Twins 3D face recognition challenge". International Joint Conference on Biometrics (IJCB), 2011 , pages 1–7. IEEE, 2011.
@@ -75,7 +74,7 @@ This repository contains a list of 3D face datasets. Each has a short descriptio
 **Download URL:** https://cvrl.nd.edu/projects/data/
 
 
-## ND-2006 
+## 7. ND-2006 
 
 **Original paper**: T. C. Faltemier, K. W. Bowyer, and P. J. Flynn. Using a multi-instance enrollment representation to improve 3d face
 recognition. In Biometrics: Theory, Applications, and Systems, 2007. BTAS 2007. First IEEE International Conference
@@ -87,7 +86,7 @@ on, pages 1–6. IEEE, 2007.
 
 **Download URL:** https://cvrl.nd.edu/media/django-summernote/2018-09-19/9e4d703f-f262-4e04-8731-e4833f525340.pdf
 
-## LS3D-W 
+## 8. LS3D-W 
 
 **Original paper**: Bulat, Adrian, and Georgios Tzimiropoulos. "How far are we from solving the 2D & 3D face alignment problem?(and a dataset of 230,000 3d facial landmarks)." Proceedings of the IEEE International Conference on Computer Vision, 2017.
 
@@ -98,7 +97,7 @@ on, pages 1–6. IEEE, 2007.
 **Download URL:** https://www.adrianbulat.com/face-alignment
 
 
-## DMCSv1 Database 
+## 9. DMCSv1 Database 
 
 **Original paper**: W. Sankowski, P.S. Nowak, P. Krotewicz, "Multimodal Biometric Database DMCSv1 of 3D Face and Hand Scans" - In the 22nd International Conference on Mixed Design of Integrated Circuits & Systems, pp. 93-97, June 2015.
 
@@ -108,7 +107,7 @@ on, pages 1–6. IEEE, 2007.
 
 **Download URL:**  http://biometrics.dmcs.pl/en/databases/dmcsv1
 
-## COMPACT Database Biometric Dataset of Face Images Acquired in Uncontrolled Indoor Environment 
+## 10. COMPACT Database Biometric Dataset of Face Images Acquired in Uncontrolled Indoor Environment 
 
 **Original paper**: M. Włodarczyk, D. Kacperski, W. Sankowski, K. Grabowski, "COMPACT: Biometric Dataset of Face Images Acquired in Uncontrolled Indoor Enviroment", 2017
 
@@ -119,7 +118,7 @@ on, pages 1–6. IEEE, 2007.
 **Download URL:** http://biometrics.dmcs.pl/en/databases/compact
 
 
-## The University of Milano Bicocca 3D face database  (UMB-DB database)
+## 11. The University of Milano Bicocca 3D face database  (UMB-DB database)
 
 **Original paper**:  A. Colombo, C. Cusano, and R. Schettini, “B-DB: A Database of Partially Occluded 3D Faces,” in in Proc. ICCV 2011 Workshops, pp. 2113-2119, 2011.
 
@@ -130,7 +129,7 @@ on, pages 1–6. IEEE, 2007.
 **Download URL:** http://www.ivl.disco.unimib.it/minisites/umbdb//
 
 
-## 3D Mask Attack Dataset 
+## 12. 3D Mask Attack Dataset 
 
 **Original paper**: Erdogmus, Nesli, and Sébastien Marcel. "Spoofing in 2d face recognition with 3d masks and anti-spoofing with kinect." 2013 IEEE Sixth International Conference on Biometrics: Theory, Applications and Systems (BTAS). IEEE, 2013.
 
@@ -140,7 +139,7 @@ on, pages 1–6. IEEE, 2007.
 
 **Download URL:** https://www.idiap.ch/dataset/3dmad
 
-## EURECOM Kinect 3D Face Dataset 
+## 13. EURECOM Kinect 3D Face Dataset 
 
 **Original paper**: Rui Min, Neslihan Kose, Jean-Luc Dugelay, "KinectFaceDB: A Kinect Database for Face Recognition," Systems, Man, and Cybernetics: Systems, IEEE Transactions on , vol.44, no.11, pp.1534--1548, 2014.
 
@@ -151,7 +150,7 @@ on, pages 1–6. IEEE, 2007.
 **Download URL:** http://rgb-d.eurecom.fr/ 
 
 
-## FaceWarehouse: a 3D Facial Expression Database for Visual Computing 
+## 14. FaceWarehouse: a 3D Facial Expression Database for Visual Computing 
 
 **Original paper**: Cao Chen, Yanlin Weng, Shun Zhou, Yiying Tong, Kun Zhou: "FaceWarehouse: a 3D Facial Expression Database for Visual Computing", IEEE Transactions on Visualization and Computer Graphics, 20(3): 413-425, 2014
 
@@ -162,7 +161,7 @@ on, pages 1–6. IEEE, 2007.
 **Download URL:** http://kunzhou.net/zjugaps/facewarehouse/
 
 
-## University of York 3D Face Database 
+## 15. University of York 3D Face Database 
 
 **Original paper**: N/A.
 
@@ -172,7 +171,7 @@ on, pages 1–6. IEEE, 2007.
 
 **Download URL:** http://www-users.cs.york.ac.uk/~nep/research/3Dface/tomh/3DFaceDatabase.html
 
-## Biwi 3D Audiovisual Corpus of Affective Communication 
+## 16. Biwi 3D Audiovisual Corpus of Affective Communication 
 
 **Original paper**: G. Fanelli, T. Weise, J. Gall, L. Van Gool, "Real Time Head Pose Estimation from Consumer Depth Cameras", 33rd Annual Symposium of the German Association for Pattern Recognition (DAGM'11).
 
@@ -182,7 +181,7 @@ on, pages 1–6. IEEE, 2007.
 
 **Download URL:** http://www.vision.ee.ethz.ch/datasets/b3dac2.en.html
 
-## Biwi Kinect Head Pose Database 
+## 17. Biwi Kinect Head Pose Database 
 
 **Original paper**: Fanelli, Gabriele, et al. "Random forests for real time 3d face analysis." International Journal of Computer Vision 101.3 (2013): 437-458.
 
@@ -193,7 +192,7 @@ on, pages 1–6. IEEE, 2007.
 **Download URL:** https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html#
 
 
-## ETH Face Pose Range Image Data Set 
+## 18. ETH Face Pose Range Image Data Set 
 
 **Original paper**: Breitenstein, Michael D., et al. "Real-time face pose estimation from single range images." 2008 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2008.
 
@@ -204,7 +203,7 @@ on, pages 1–6. IEEE, 2007.
 **Download URL:** https://www.vision.ee.ethz.ch/datasets/headposeCVPR08/
 
 
-## Spacetime Faces Database 
+## 19. Spacetime Faces Database 
 
 **Original paper**: Zhang, Li, et al. "Spacetime faces: High-resolution capture for~ modeling and animation." Data-Driven 3D Facial Animation. Springer, London, 2008. 248-276.
 
@@ -215,7 +214,7 @@ on, pages 1–6. IEEE, 2007.
 
 **Download URL:** http://grail.cs.washington.edu/projects/stfaces/
 
-## Human face
+## 20. Human face
 
 **Original paper**: A. M. Bronstein, M. M. Bronstein, R. Kimmel, "Calculus of non-rigid surfaces for geometry and texture manipulation", IEEE Trans. Visualization and Computer Graphics, Vol 13/5, pp. 902-913, September-October 2007.
 
