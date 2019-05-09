@@ -2,13 +2,15 @@
 
 This repository contains a list of 3D face datasets. Each has a short description, year published and download url. Note that, the first 10 datasets (e.g. ) are most often used as training set for deep learning-based 3D face recognition approaches. To the best of my knowledge, the LS3DFace [1] is the largest 3D face dataset to date, which contains 1,853 identities with 31,860 scans. This is in fact a merged dataset from the most challenging public datasets (FRGCv2, BU3DFE, Bosphorus, GavabDB, Texes FRD, BU4DFE, CASIA, UMB DB, 3D-TEC, and ND-2006). 
 
-## FRGC v1, v2 Dataset
+## FRGC v2 Dataset
 
-**Original paper**: 
+**Original paper**: P. Phillips, P. Flynn, T. Scruggs, K. Bowyer, et al. "Overview of the face recognition grand challenge". In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2005.
 
-**Description**: 
+**Description**: The FRGC v2 is a large-scale 3D face recognition benchmark dataset with 446 identities and 4007 scans. The data consists of 3D scans and high resolution still imagery taken under controlled and uncontrolled conditions.
 
-**Year of release**: 
+**Year of release**: 2005
+
+**Download URL:** https://cvrl.nd.edu/media/django-summernote/2018-09-19/c7654649-5277-4d8c-b069-483d8ffa3039.pdf
 
 4,950 3D facial scans of 577 subjects
 
@@ -16,9 +18,9 @@ CASIA 3D [2] consisting of 4624 scans of 123 persons using the non-contact 3D di
 
 **Original paper**: 
 
-**Description**: 
+**Description**:  
 
-**Year of release**:
+**Year of release**: 2015
 
 
 http://www.cbsr.ia.ac.cn/english/3DFace%20Databases.asp
