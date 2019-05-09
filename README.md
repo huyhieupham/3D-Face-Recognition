@@ -77,6 +77,16 @@ on, pages 1–6. IEEE, 2007.
 
 **Download URL:** https://cvrl.nd.edu/media/django-summernote/2018-09-19/9e4d703f-f262-4e04-8731-e4833f525340.pdf
 
+## LS3D-W 
+
+**Original paper**: Bulat, Adrian, and Georgios Tzimiropoulos. "How far are we from solving the 2D & 3D face alignment problem?(and a dataset of 230,000 3d facial landmarks)." Proceedings of the IEEE International Conference on Computer Vision, 2017.
+
+**Description**: The LS3D-W is the largest and most challenging 3D facial landmark dataset to date (~230,000 images), obtained from unifying almost all existing datasets.
+
+**Year of release**: 2017
+
+**Download URL:** https://www.adrianbulat.com/face-alignment
+
 
 ## DMCSv1 Database 
 
@@ -204,16 +214,5 @@ on, pages 1–6. IEEE, 2007.
 **Year of release**: 2007
 
 **Download URL:** http://tosca.cs.technion.ac.il/book/resources_data.html (Please scroll to bottom of page)
-
-
-## LS3D-W 
-
-**Original paper**: Bulat, Adrian, and Georgios Tzimiropoulos. "How far are we from solving the 2D & 3D face alignment problem?(and a dataset of 230,000 3d facial landmarks)." Proceedings of the IEEE International Conference on Computer Vision, 2017.
-
-**Description**: The LS3D-W is the largest and most challenging 3D facial landmark dataset to date (~230,000 images), obtained from unifying almost all existing datasets.
-
-**Year of release**: 2017
-
-**Download URL:** https://www.adrianbulat.com/face-alignment
 
 
