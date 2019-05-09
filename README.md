@@ -1,6 +1,6 @@
 # 3D Face Datasets
 
-This repository contains a list of 3D face datasets. Each has a short description, year published and download url. Note that, the first 8 datasets (e.g. ) are most often used as training and validation data for deep learning-based 3D face recognition approaches. To the best of my knowledge, the LS3DFace (https://arxiv.org/pdf/1711.05942.pdf) is the largest 3D face dataset to date, which contains 1,853 identities with 31,860 scans. This is in fact a merged dataset from the most challenging public datasets (FRGCv2, BU3-DFE, Bosphorus, Texes FRD, BU4DFE, CASIA, UMB DB, 3D-TEC, and ND-2006). 
+This repository provides a list of 3D face datasets. Each dataset contains the original reference, a short description, year published and download URL. Note that, the first 8 datasets (e.g. FRGCv2, BU3-DFE, Bosphorus, Texes FRD, BU4DFE, CASIA, UMB DB, 3D-TEC, and ND-2006 and LS3D-W) are most often used as training and validation data for deep learning-based 3D face recognition approaches. To the best of my knowledge, the LS3DFace (https://arxiv.org/pdf/1711.05942.pdf) is the largest 3D face dataset to date, which contains 1,853 identities with 31,860 scans. This is in fact a merged dataset from the most challenging public datasets. 
 
 <p align="center"> 
 <img src="https://github.com/huyhieupham/3D-Face-Recognition/blob/master/figures/3d_face_data.png" width="550" height="280">
