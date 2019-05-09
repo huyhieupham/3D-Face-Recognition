@@ -165,25 +165,24 @@ on, pages 1–6. IEEE, 2007.
 
 ## Biwi Kinect Head Pose Database 
 
-**Original paper**: 
+**Original paper**: Fanelli, Gabriele, et al. "Random forests for real time 3d face analysis." International Journal of Computer Vision 101.3 (2013): 437-458.
 
-**Description**: 
+**Description**: The dataset contains over 15K images of 20 people (6 females and 14 males - 4 people were recorded twice). For each frame, a depth image, the corresponding rgb image (both 640x480 pixels), and the annotation is provided. The head pose range covers about +-75 degrees yaw and +-60 degrees pitch. Ground truth is provided in the form of the 3D location of the head and its rotation.
 
-**Year of release**:
+**Year of release**: 2013
 
-**Download URL:**
-Over 15K images of 20 people recorded with a Kinect while turning their heads around freely. For each frame, depth and rgb images are provided, together with ground in the form of the 3D location of the head and its rotation angles.
+**Download URL:** https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html#
 
 
 ## ETH Face Pose Range Image Data Set 
 
 **Original paper**: Breitenstein, Michael D., et al. "Real-time face pose estimation from single range images." 2008 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2008.
 
-**Description**: 
+**Description**: The dataset consisting of 10,545 range images from 26 people (male and female). Each person freely turned her head while the scanner captured range images at 28 fps. In the beginning, each person looks straight into the camera before moving the head. The resulting range images have a resolution of 640x480 pixels, and a face typically consists of about 150x200 depth values. The head pose range covers about +-90 degrees yaw and +- 45 degrees pitch rotation. Roll rotation is not included in this data set. In the image above, a few example input frames are visible (depth information is shown as green color values), and in the image below, a typical camera trajectory is visualized.
 
-**Year of release**:
+**Year of release**: 2008
 
-**Download URL:** http://www.vision.ee.ethz.ch/datasets/headposeCVPR08/
+**Download URL:** https://www.vision.ee.ethz.ch/datasets/headposeCVPR08/
 
 
 ## Spacetime Faces Database 
@@ -191,7 +190,7 @@ Over 15K images of 20 people recorded with a Kinect while turning their heads ar
 **Original paper**: Zhang, Li, et al. "Spacetime faces: High-resolution capture for~ modeling and animation." Data-Driven 3D Facial Animation. Springer, London, 2008. 248-276.
 
 
-**Description**: 
+**Description**: Video sequences to high resolution, editable, dynamically controllable face models. The capture system employs synchronized video cameras and structured light projectors to record videos of a moving face from multiple viewpoints. 
 
 **Year of release**: 2008
 
