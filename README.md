@@ -1,11 +1,6 @@
-# 3D Face Recognition
+# 3D Face Datasets
 
-LS3DFace  https://arxiv.org/pdf/1711.05942.pdf
-
-LS3D-W is a large-scale 3D face alignment dataset constructed by annotating the images from AFLW[2], 300VW[3], 300W[4] and FDDB[5]  
-
-https://www.adrianbulat.com/face-alignment
-
+This repository contains a list of 3D face datasets. Each has a short description, year published and download url. Note that, the first 10 datasets (e.g. ) are most often used as training set for deep learning-based 3D face recognition approaches. To the best of my knowledge, the LS3DFace [1] is the largest 3D face dataset to date, which contains 1,853 identities with 31,860 scans. This is in fact a merged dataset from the most challenging public datasets (FRGCv2, BU3DFE, Bosphorus, GavabDB, Texes FRD, BU4DFE, CASIA, UMB DB, 3D-TEC, and ND-2006). 
 
 ## 3D Face Recogntion Datasets
 
@@ -131,7 +126,11 @@ UMBDB [22]
 
 GavabDB [] 
 
+LS3DFace  https://arxiv.org/pdf/1711.05942.pdf
 
+LS3D-W is a large-scale 3D face alignment dataset constructed by annotating the images from AFLW[2], 300VW[3], 300W[4] and FDDB[5]  
+
+https://www.adrianbulat.com/face-alignment
 
 ### References
 
