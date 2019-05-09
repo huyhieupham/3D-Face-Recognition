@@ -15,29 +15,24 @@ This repository contains a list of 3D face datasets. Each has a short descriptio
 
 ## CASIA 3D Face Database
 
-**Original paper**: “CASIA-3D FaceV1, http://biometrics.idealtest.org/”
+**Reference**: "CASIA-3D FaceV1, http://biometrics.idealtest.org/"
 
 **Description**:  This is a 3D face database consisting of 4624 scans of 123 persons using the non-contact 3D digitizer called Minolta Vivid 910 with the combined variations of expressions under illumination and poses under expressions.
 
-**Year of release**: 2015
+**Year of release**: 2004
 
 **Download URL:** http://biometrics.idealtest.org/dbDetailForUser.do?id=8
 
-3D-TEC [3]  
+## 3D-TEC 
 
-**Original paper**: 
+**Original paper**: V. Vijayan, K. W. Bowyer, P. J. Flynn, D. Huang, L. Chen, M. Hansen, O. Ocegueda, S. K. Shah, and I. A. Kakadiaris.
+"Twins 3D face recognition challenge". International Joint Conference on Biometrics (IJCB), 2011 , pages 1–7. IEEE, 2011.
 
-**Description**: 
+**Description**: The 3D-TEC database contains 107 pairs (total 214 subjects) of twins and expressions of neutral and smiling scan are captured for each subject. Since twins are visually similar to each other, it is harder to identify a probe where the corresponding twin of the probe is in a gallery set. 
 
-**Year of release**:
+**Year of release**: 2011
 
-The 3D-TEC database contains 107 pairs (total 214 subjects) of twins and expressions of neutral and
-smiling scan are captured for each subject. Since twins are
-visually similar to each other, it is harder to identify a probe
-where the corresponding twin of the probe is in a gallery set.
-Identifying twins visually are sometimes hard even for humans.
-
-https://cvrl.nd.edu/projects/data/
+**Download URL:** https://cvrl.nd.edu/projects/data/
 
 
 Bosphorus [4] 
@@ -313,8 +308,7 @@ of the face recognition grand challenge. In 2005 IEEE Computer Society Conferenc
 
  
  
- [3] V. Vijayan, K. W. Bowyer, P. J. Flynn, D. Huang, L. Chen, M. Hansen, O. Ocegueda, S. K. Shah, and I. A. Kakadiaris.
-Twins 3d face recognition challenge. In Biometrics (IJCB), 2011 International Joint Conference on, pages 1–7. IEEE, 2011.
+ [3] 
 
 [4] [28] A. Savran, N. Alyuz, H. Dibeklio ¨ glu, O. C¸ eliktutan, ˘ B. Gokberk, B. Sankur, and L. Akarun. Bosphorus database ¨ for 3d face analysis. In European Workshop on Biometrics and Identity Management, pages 47–56. Springer, 2008.
 
