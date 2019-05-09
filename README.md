@@ -212,7 +212,7 @@ Over 15K images of 20 people recorded with a Kinect while turning their heads ar
 
 **Original paper**: 
 
-**Description**: 
+**Description**: The UMB-DB database is a collection of multimodal (3D + 2D colour images) facial acquisitions. The UMB-DB has been acquired with a particular focus on facial occlusions, i.e. scarves, hats, hands, eyeglasses and other types of occlusion wich can occur in real-world scenarios. Database contents 143 subjects, (98 male, 45 female; a pair of male twins and a baby included); 1473 total acquisitions (3D + colour 2D);
 
 **Year of release**:
 
