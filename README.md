@@ -208,7 +208,7 @@ Over 15K images of 20 people recorded with a Kinect while turning their heads ar
 **Download URL:** http://tosca.cs.technion.ac.il/book/resources_data.html (Please scroll to bottom of page)
 
 
-## UMBDB [22]
+## UMB-DB [22]
 
 **Original paper**: 
 
@@ -216,23 +216,17 @@ Over 15K images of 20 people recorded with a Kinect while turning their heads ar
 
 **Year of release**:
 
-**Download URL:**
-
-## GavabDB [] 
-
-**Original paper**: 
-
-**Description**: 
-
-**Year of release**:
-
-**Download URL:**
-
-## LS3DFace  
+**Download URL:** http://www.ivl.disco.unimib.it/minisites/umbdb/description.html
 
 
-LS3D-W is a large-scale 3D face alignment dataset constructed by annotating the images from AFLW[2], 300VW[3], 300W[4] and FDDB[5]  
+## LS3D-W 
 
-https://www.adrianbulat.com/face-alignment
+**Original paper**: Bulat, Adrian, and Georgios Tzimiropoulos. "How far are we from solving the 2D & 3D face alignment problem?(and a dataset of 230,000 3d facial landmarks)." Proceedings of the IEEE International Conference on Computer Vision, 2017.
+
+**Description**: The LS3D-W is the largest and most challenging 3D facial landmark dataset to date (~230,000 images), obtained from unifying almost all existing datasets.
+
+**Year of release**: 2017
+
+**Download URL:** https://www.adrianbulat.com/face-alignment
 
 
