@@ -4,7 +4,7 @@ This repository contains a list of 3D face datasets. Each has a short descriptio
 
 
 <p align="center"> 
-<img src="https://github.com/huyhieupham/3D-Face-Recognition/blob/master/figures/3d_face_data.png" width="500" height="300">
+<img src="https://github.com/huyhieupham/3D-Face-Recognition/blob/master/figures/3d_face_data.png" width="550" height="300">
 </p>
 <p align="center"> 
 </p>
