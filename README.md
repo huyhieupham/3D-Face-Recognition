@@ -23,7 +23,7 @@ This repository provides a list of 3D face datasets. Each dataset contains the o
 
 ## 2. BU-3DFE Database (Binghamton University 3D Facial Expression)
 
-**Original paper**: L. Yin, X. Wei, Y. Sun, J. Wang, and M. J. Rosato. "A 3D facial expression database for facial behavior research" - In 7th International Conference on Automatic Face and Gesture Recognition (FGR06), pages 211–216. IEEE, 2006. 
+**Original paper**: L. Yin, X. Wei, Y. Sun, J. Wang, and M. J. Rosato. "A 3D facial expression database for facial behavior research" - In 7th International Conference on Automatic Face and Gesture Recognition (FGR06), pages 211–216, 2006. 
 
 **Description**: This dataset includes 100 subjects (56% female, 44% male), ranging age from 18 years to 70 years old, with a variety of ethnic/racial ancestries, including White, Black, East-Asian, Middle-east Asian, Indian, and Hispanic Latino for 2500 facial expression models.  Each subject made 6 expressions (e.g. happiness, disgust, fear and so on) with four levels of intensity from low to high and a neutral expression. 
 
@@ -33,7 +33,7 @@ This repository provides a list of 3D face datasets. Each dataset contains the o
 
 ## 3. Bosphorus 
 
-**Original paper**: A. Savran, N. Alyuz, H. Dibeklio ¨ glu, O. C¸ eliktutan, ˘ B. Gokberk, B. Sankur, and L. Akarun. "Bosphorus database for 3D face analysis" - In European Workshop on Biometrics and Identity Management, pages 47–56. Springer, 2008.
+**Original paper**: A. Savran, N. Alyuz, H. Dibeklio, O. C¸ eliktutan, B. Gokberk, B. Sankur, and L. Akarun. "Bosphorus database for 3D face analysis" - In European Workshop on Biometrics and Identity Management, pages 47–56. Springer, 2008.
 
 **Description**: The Bosphorus database contains 4,666 3D facial scans over 105 subjects with rich expression variations, poses, occlusions. The 2,902 scans contain expression variations from 105 subjects. In the experiment, 105 first neutral scans from each identity are used as a gallery set and 2797 non-neutral scans are used as a probe set.
 
@@ -43,7 +43,7 @@ This repository provides a list of 3D face datasets. Each dataset contains the o
 
 ## 4. Texas 3D Face Recognition Database (Texas 3DFRD) 
 
-**Original paper**: S. Gupta, M. K. Markey, A. C. Bovik, "Anthropometric 3D Face Recognition", International Journal of Computer Vision, 2010, Volume 90, 3:331-349. 
+**Original paper**: S. Gupta, M. K. Markey, A. C. Bovik, "Anthropometric 3D Face Recognition", International Journal of Computer Vision, Volume 90, 3:331-349, 2010. 
 
 **Description**: The Texas 3D Face Recognition database (Texas 3DFRD) is a collection of 1149 pairs of facial color and range images of 105 adult human subjects. These images were acquired using a stereo imaging system manufactured by 3Q Technologies (Atlanta, GA) at a very high spatial resolution of 0.32 mm along the x, y, and z dimensions. During each acquisition, the color and range images were captured simultaneously and thus the two are perfectly registered to each other.
 
@@ -65,7 +65,7 @@ This repository provides a list of 3D face datasets. Each dataset contains the o
 ## 6. 3D-TEC 
 
 **Original paper**: V. Vijayan, K. W. Bowyer, P. J. Flynn, D. Huang, L. Chen, M. Hansen, O. Ocegueda, S. K. Shah, and I. A. Kakadiaris.
-"Twins 3D face recognition challenge". International Joint Conference on Biometrics (IJCB), 2011 , pages 1–7. IEEE, 2011.
+"Twins 3D face recognition challenge". International Joint Conference on Biometrics (IJCB), 2011 , pages 1–7, 2011.
 
 **Description**: The 3D-TEC database contains 107 pairs (total 214 subjects) of twins and expressions of neutral and smiling scan are captured for each subject. Since twins are visually similar to each other, it is harder to identify a probe where the corresponding twin of the probe is in a gallery set. 
 
@@ -76,9 +76,8 @@ This repository provides a list of 3D face datasets. Each dataset contains the o
 
 ## 7. ND-2006 
 
-**Original paper**: T. C. Faltemier, K. W. Bowyer, and P. J. Flynn. Using a multi-instance enrollment representation to improve 3d face
-recognition. In Biometrics: Theory, Applications, and Systems, 2007. BTAS 2007. First IEEE International Conference
-on, pages 1–6. IEEE, 2007.
+**Original paper**: T. C. Faltemier, K. W. Bowyer, and P. J. Flynn. "Using a multi-instance enrollment representation to improve 3D face
+recognition". First IEEE International Conference on Biometrics: Theory, Applications, and Systems (BTAS 2007). , pages 1–6, 2007.
 
 **Description**:  The ND-2006 3D face dataset contains 13,450 scans of 888 subjects. This is the large 3D face dataset that contains a substantial amount of varied facial expression (Neutral, Happiness, Sadness, Surprise, Disgust, and Other). A total of 888 distinct persons, with as many as 63 images per subject, are available in this dataset.
 
@@ -88,7 +87,7 @@ on, pages 1–6. IEEE, 2007.
 
 ## 8. LS3D-W 
 
-**Original paper**: Bulat, Adrian, and Georgios Tzimiropoulos. "How far are we from solving the 2D & 3D face alignment problem?(and a dataset of 230,000 3d facial landmarks)." Proceedings of the IEEE International Conference on Computer Vision, 2017.
+**Original paper**: Bulat, Adrian, and Georgios Tzimiropoulos. "How far are we from solving the 2D & 3D face alignment problem?(and a dataset of 230,000 3D facial landmarks)." Proceedings of the IEEE International Conference on Computer Vision, ICCV'2017.
 
 **Description**: The LS3D-W is the largest and most challenging 3D facial landmark dataset to date (~230,000 images), obtained from unifying almost all existing datasets.
 
@@ -99,7 +98,7 @@ on, pages 1–6. IEEE, 2007.
 
 ## 9. DMCSv1 Database 
 
-**Original paper**: W. Sankowski, P.S. Nowak, P. Krotewicz, "Multimodal Biometric Database DMCSv1 of 3D Face and Hand Scans" - In the 22nd International Conference on Mixed Design of Integrated Circuits & Systems, pp. 93-97, June 2015.
+**Original paper**: W. Sankowski, P.S. Nowak, P. Krotewicz, "Multimodal Biometric Database DMCSv1 of 3D Face and Hand Scans" - In the 22nd International Conference on Mixed Design of Integrated Circuits & Systems, pp. 93-97, 2015.
 
 **Description**: The DMCSv1 database is a multimodal biometric database. The database contains 3D face and hand scans. The number of individuals:	35. Total number of face scans: 1050.
 
@@ -109,11 +108,11 @@ on, pages 1–6. IEEE, 2007.
 
 ## 10. COMPACT Database Biometric Dataset of Face Images Acquired in Uncontrolled Indoor Environment 
 
-**Original paper**: M. Włodarczyk, D. Kacperski, W. Sankowski, K. Grabowski, "COMPACT: Biometric Dataset of Face Images Acquired in Uncontrolled Indoor Enviroment", 2017
+**Original paper**: Włodarczyk, Michał, et al. "COMPACT: Biometric Dataset of Face Images Acquired in Uncontrolled Indoor Environment." Computer Science, Vol. 20.1, 2018.
 
 **Description**: The COMPACT dataset was collected in an indoor laboratory environment. It aims at fostering the development of biometric recognition systems that work indoors and in unconstrained conditions. Number of subjects:	108. Number of registration images:	12312. 
 
-**Year of release**: 2017
+**Year of release**: 2018
 
 **Download URL:** http://biometrics.dmcs.pl/en/databases/compact
 
@@ -131,7 +130,7 @@ on, pages 1–6. IEEE, 2007.
 
 ## 12. 3D Mask Attack Dataset 
 
-**Original paper**: Erdogmus, Nesli, and Sébastien Marcel. "Spoofing in 2d face recognition with 3d masks and anti-spoofing with kinect." 2013 IEEE Sixth International Conference on Biometrics: Theory, Applications and Systems (BTAS). IEEE, 2013.
+**Original paper**: Erdogmus, Nesli, and Sébastien Marcel. "Spoofing in 2d face recognition with 3d masks and anti-spoofing with kinect." in the IEEE Sixth International Conference on Biometrics: Theory, Applications and Systems (BTAS), 2013.
 
 **Description**: It currently contains 76500 frames of 17 persons, recorded using Kinect for both real-access and spoofing attacks. Each frame consists of a depth image (640x480 pixels – 1x11 bits), the corresponding RGB image (640x480 pixels – 3x8 bits), manually annotated eye positions (with respect to the RGB image).
 
@@ -141,9 +140,9 @@ on, pages 1–6. IEEE, 2007.
 
 ## 13. EURECOM Kinect 3D Face Dataset 
 
-**Original paper**: Rui Min, Neslihan Kose, Jean-Luc Dugelay, "KinectFaceDB: A Kinect Database for Face Recognition," Systems, Man, and Cybernetics: Systems, IEEE Transactions on , vol.44, no.11, pp.1534--1548, 2014.
+**Original paper**: Rui Min, Neslihan Kose, Jean-Luc Dugelay, "KinectFaceDB: A Kinect Database for Face Recognition," In the IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol.44, no.11, pp.1534--1548, 2014.
 
-**Description**: A database of images of different facial expressions in different lighting and occlusion conditions to serve various research purposes. The Dataset consists of the multimodal facial images of 52 people (14 females, 38 males) obtained by Kinect
+**Description**: A database of images of different facial expressions in different lighting and occlusion conditions to serve various research purposes. The Dataset consists of the multimodal facial images of 52 people (14 females, 38 males) obtained by Kinect sensor.
 
 **Year of release**: 2014
 
@@ -152,7 +151,7 @@ on, pages 1–6. IEEE, 2007.
 
 ## 14. FaceWarehouse: a 3D Facial Expression Database for Visual Computing 
 
-**Original paper**: Cao Chen, Yanlin Weng, Shun Zhou, Yiying Tong, Kun Zhou: "FaceWarehouse: a 3D Facial Expression Database for Visual Computing", IEEE Transactions on Visualization and Computer Graphics, 20(3): 413-425, 2014
+**Original paper**: Cao Chen, Yanlin Weng, Shun Zhou, Yiying Tong, Kun Zhou: "FaceWarehouse: a 3D Facial Expression Database for Visual Computing", IEEE Transactions on Visualization and Computer Graphics, 20(3): pp. 413-425, 2014
 
 **Description**: This is a RGB-D Facial Expression Database of 150 individuals aged 7-80 from various ethnic backgrounds. For each person, the RGB-D data of her different expressions, including the neutral expression and 19 other expressions such as mouth-opening, smile, kiss, etc was captured. For every RGBD raw data record, a set of facial feature points on the color image such as eye corners, mouth contour and the nose tip are automatically localized, and manually adjusted if better accuracy is required.
 
@@ -183,7 +182,7 @@ on, pages 1–6. IEEE, 2007.
 
 ## 17. Biwi Kinect Head Pose Database 
 
-**Original paper**: Fanelli, Gabriele, et al. "Random forests for real time 3d face analysis." International Journal of Computer Vision 101.3 (2013): 437-458.
+**Original paper**: Fanelli, Gabriele, et al. "Random forests for real time 3d face analysis." International Journal of Computer Vision 101.3, pp. 437-458, 2013.
 
 **Description**: The dataset contains over 15K images of 20 people (6 females and 14 males - 4 people were recorded twice). For each frame, a depth image, the corresponding rgb image (both 640x480 pixels), and the annotation is provided. The head pose range covers about +-75 degrees yaw and +-60 degrees pitch. Ground truth is provided in the form of the 3D location of the head and its rotation.
 
@@ -194,7 +193,7 @@ on, pages 1–6. IEEE, 2007.
 
 ## 18. ETH Face Pose Range Image Data Set 
 
-**Original paper**: Breitenstein, Michael D., et al. "Real-time face pose estimation from single range images." 2008 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2008.
+**Original paper**: Breitenstein, Michael D., et al. "Real-time face pose estimation from single range images." 2008 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2008.
 
 **Description**: The dataset consisting of 10,545 range images from 26 people (male and female). Each person freely turned her head while the scanner captured range images at 28 fps. In the beginning, each person looks straight into the camera before moving the head. The resulting range images have a resolution of 640x480 pixels, and a face typically consists of about 150x200 depth values. The head pose range covers about +-90 degrees yaw and +- 45 degrees pitch rotation. Roll rotation is not included in this data set. In the image above, a few example input frames are visible (depth information is shown as green color values), and in the image below, a typical camera trajectory is visualized.
 
@@ -205,7 +204,7 @@ on, pages 1–6. IEEE, 2007.
 
 ## 19. Spacetime Faces Database 
 
-**Original paper**: Zhang, Li, et al. "Spacetime faces: High-resolution capture for~ modeling and animation." Data-Driven 3D Facial Animation. Springer, London, 2008. 248-276.
+**Original paper**: Zhang, Li, et al. "Spacetime faces: High-resolution capture for~ modeling and animation." Data-Driven 3D Facial Animation. Springer, London, pp. 248-276, 2008.
 
 
 **Description**: Video sequences to high resolution, editable, dynamically controllable face models. The capture system employs synchronized video cameras and structured light projectors to record videos of a moving face from multiple viewpoints. 
@@ -216,7 +215,7 @@ on, pages 1–6. IEEE, 2007.
 
 ## 20. Human face
 
-**Original paper**: A. M. Bronstein, M. M. Bronstein, R. Kimmel, "Calculus of non-rigid surfaces for geometry and texture manipulation", IEEE Trans. Visualization and Computer Graphics, Vol 13/5, pp. 902-913, September-October 2007.
+**Original paper**: A. M. Bronstein, M. M. Bronstein, R. Kimmel, "Calculus of non-rigid surfaces for geometry and texture manipulation", IEEE Trans. Visualization and Computer Graphics, Vol 13/5, pp. 902-913, 2007.
 
 **Description**: An animated three-dimensional face dataset showing different facial expressions, acquired using a real-time range camera. The acquisition speed is approximately 3 frames/sec. The database contains 15 expressions of the same face, represented as a textured shape. Each object contains approximately 2000 vertices. 
 
