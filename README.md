@@ -13,15 +13,15 @@ This repository contains a list of 3D face datasets. Each has a short descriptio
 **Download URL:** https://cvrl.nd.edu/media/django-summernote/2018-09-19/c7654649-5277-4d8c-b069-483d8ffa3039.pdf
 
 
-## CASIA 3D 
+## CASIA 3D Face Database
 
 **Original paper**: “CASIA-3D FaceV1, http://biometrics.idealtest.org/”
 
-**Description**:  The CASIA 3D consisting of 4624 scans of 123 persons using the non-contact 3D digitizer, Minolta Vivid 910,
+**Description**:  This is a 3D face database consisting of 4624 scans of 123 persons using the non-contact 3D digitizer called Minolta Vivid 910 with the combined variations of expressions under illumination and poses under expressions.
 
 **Year of release**: 2015
 
-**Download URL:** http://www.cbsr.ia.ac.cn/english/3DFace%20Databases.asp
+**Download URL:** http://biometrics.idealtest.org/dbDetailForUser.do?id=8
 
 3D-TEC [3]  
 
