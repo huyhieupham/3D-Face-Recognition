@@ -45,7 +45,7 @@ This repository provides a list of 3D face datasets. Each dataset contains the o
 
 **Original paper**: S. Gupta, M. K. Markey, A. C. Bovik, "Anthropometric 3D Face Recognition", International Journal of Computer Vision, Volume 90, 3:331-349, 2010. 
 
-**Description**: The Texas 3D Face Recognition database (Texas 3DFRD) is a collection of 1149 pairs of facial color and range images of 105 adult human subjects. These images were acquired using a stereo imaging system manufactured by 3Q Technologies (Atlanta, GA) at a very high spatial resolution of 0.32 mm along the x, y, and z dimensions. During each acquisition, the color and range images were captured simultaneously and thus the two are perfectly registered to each other.
+**Description**: The Texas 3D Face Recognition database (Texas 3DFRD) is a collection of 1149 pairs of facial color and range images of 105 adult human subjects. These images were acquired using a stereo imaging system manufactured by 3Q Technologies (Atlanta, GA) at a very high spatial resolution of 0.32 mm along the x, y, and z dimensions. During each acquisition, the color and range images were captured simultaneously and thus the two are perfectly registered to each other. This dataset is used for research and purposes only and may not be used for any commercial purposes.
 
 **Year of release**: 2010
 
