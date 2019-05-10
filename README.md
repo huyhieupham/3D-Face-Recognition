@@ -223,4 +223,14 @@ recognition". First IEEE International Conference on Biometrics: Theory, Applica
 
 **Download URL:** http://tosca.cs.technion.ac.il/book/resources_data.html (Please scroll to bottom of page)
 
+## 21. 3D Mask Attack Dataset
+
+**Original paper**: Erdogmus, Nesli, and Sébastien Marcel. "Spoofing in 2d face recognition with 3d masks and anti-spoofing with kinect." In IEEE Sixth International Conference on Biometrics: Theory, Applications and Systems (BTAS), 2013.
+
+**Description**: The 3D Mask Attack Database (3DMAD) is a biometric (face) spoofing database. It currently contains 76500 frames of 17 persons, recorded using Kinect for both real-access and spoofing attacks. The data is collected in 3 different sessions for all subjects and for each session 5 videos of 300 frames are captured. The recordings are done under controlled conditions, with frontal-view and neutral expression. The first two sessions are dedicated to the real access samples, in which subjects are recorded with a time delay of ~2 weeks between the acquisitions. In the third session, 3D mask attacks are captured by a single operator (attacker).
+
+**Year of release**: 2013
+
+**Download URL:** https://www.idiap.ch/dataset/3dmad
+
 
